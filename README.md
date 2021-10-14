@@ -2,3 +2,5 @@
 as you can see by his commits
 
 <img src="https://github.com/ao-0/Cattoware-Source/blob/main/funny.png?raw=true">
+
+<img src="https://github.com/ao-0/Cattoware-Source/blob/main/funnyv2.png?raw=true">
